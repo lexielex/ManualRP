@@ -1,2 +1,2 @@
 # Manual RapidPro
-Manual de uso de la plataforma de RapidPro
+Manual simplificado de uso de la plataforma de RapidPro con base en informacion de http://docs.rapidpro.io/
